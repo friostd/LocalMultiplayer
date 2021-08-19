@@ -6,13 +6,13 @@ import java.io.*;
 
 public class Cliente extends Component { 
 
-    public static Socket clienti;
+    public static Socket cliente;
     public int porta;
     
 
     public void start() {
         try {
-        	    clienti = new Socket("localhost", porta);
+        	    cliente = new Socket("localhost", porta);
         	    Console.log("Servidor Conectado");
         	}
         	catch(IOException ex){
