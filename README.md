@@ -1,6 +1,3 @@
-# Multiplayer na ITsMagic
-Multiplayer Feito Na ITsMagic Usando Thread e Java.net
+Connection between clients using localhost.
 
-# Vídeo de Tutorial
-O Vídeo Ensinando A Usar Está No Meu Canal:
-https://youtube.com/c/TutoriaisITsMagic
+This repository is part of a tutorial, if you want to access it: https://youtu.be/Z-FjfPlbHfE
