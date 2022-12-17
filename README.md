@@ -10,6 +10,8 @@ Connection between clients using localhost.
 ### Execute Server
 
     java com.multiplayer.Server
+    or, are you using the binary
+    java --class-path LocalMultiplayer-1.0.0.jar com.multiplayer.Server
 
 
 Output
@@ -17,7 +19,9 @@ Output
 
 ### Execute Client
 
-    java com.multiplayer.Client
+    java com.multiplayer.Clienr
+    or, are you using the binary
+    java --class-path LocalMultiplayer-1.0.0.jar com.multiplayer.Client
 
 
 Output
